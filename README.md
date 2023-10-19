@@ -1,5 +1,5 @@
 # Game-Of-Bums
-Conway's game of life implemented in golang using `[Ebitengine](https://github.com/hajimehoshi/ebiten)`
+Conway's game of life implemented in golang using [Ebitengine](https://github.com/hajimehoshi/ebiten)
 
 ## Introduction
 
